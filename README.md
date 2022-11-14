@@ -1,14 +1,13 @@
 # MultiplicationGame
-Interactive application built with JavaScript
+### Interactive application built with JavaScript
 
-<h4>Description</h4>
+## Description
   <p>The main purpose of the project was to build an interactive application - Multiplication Game. The game demonstrates programming with JavaScript.</p>
   <h4>Developing Tools:</h4>
    <ul>
      <li>HTML5</li>
      <li>CSS3</li>
-     <li>JavaScript</li>
-   </ul>
+	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   </ul>
    <h4>Features:</h4>
    <ul>
     <li>When the game begins, the timer is set to 30 seconds.</li>
