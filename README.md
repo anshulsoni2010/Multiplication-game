@@ -1,7 +1,7 @@
 # Multiplication Game
 
 ### Interactive application built with JavaScript
-### Here is a deployed link of [Multiplicationn Game](https://multiplication-game-as.netlify.app/).
+### Here is a deployed link of [Multiplication Game](https://multiplication-game-as.netlify.app/).
 
 
 ## Description:
